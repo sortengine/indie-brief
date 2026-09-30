@@ -50,11 +50,14 @@ KEEP_EPISODES = 14                   # older MP3s are deleted to keep the repo s
 
 SOURCES = {
     "Deadline": "https://deadline.com/feed/",
-    "Screen Daily": "https://www.screendaily.com/rss",
     "Realscreen": "https://realscreen.com/feed/",
-    "Cineuropa": "https://cineuropa.org/en/rss/",
     "International Documentary Association": "https://www.documentary.org/rss.xml",
     "Modern Times Review": "https://www.moderntimes.review/feed/",
+    "Screen Daily": "https://www.screendaily.com/45202.rss",
+    "POV Magazine": "https://povmagazine.com/feed/",
+    # Removed 30 Sep 2026:
+    #   Cineuropa  - blocks GitHub's computers (403 Forbidden)
+    #   Screen Daily - feed address not found (404); add back once we find the right one
 }
 
 ROOT = Path(__file__).parent
