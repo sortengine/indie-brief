@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Indie Brief</title>
+    <link>https://sortengine.github.io/indie-brief/</link>
+    <description>A daily news briefing for independent film and documentary.</description>
+    <language>en-gb</language>
+    <itunes:author>Sort Engine</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Test episode</title>
+      <description>If this plays on your phone, delivery works.</description>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-test-001</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/test-episode.mp3" length="115818" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
