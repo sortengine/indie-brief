@@ -18,6 +18,7 @@ import html
 import json
 import os
 import re
+import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -32,8 +33,19 @@ SHOW_TITLE = "Indie Brief"
 SHOW_DESCRIPTION = "A daily news briefing for independent film and documentary."
 VOICE = "en-GB-RyanNeural"          # try en-GB-SoniaNeural for a female voice
 MODEL = "claude-haiku-4-5-20251001"
-LOOKBACK_HOURS = 48                  # ignore stories older than this
-MAX_PER_SOURCE = 8
+LOOKBACK_HOURS = 72                  # ignore stories older than this
+                                     # (repeats are prevented by seen.json anyway)
+
+# Some news sites turn away anything that looks like a robot, so the
+# script introduces itself the way an ordinary web browser would.
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/126.0 Safari/537.36"),
+    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+    "Accept-Language": "en-GB,en;q=0.9",
+}
+MAX_PER_SOURCE = 20                  # a bigger pool gives Claude more to choose from
 KEEP_EPISODES = 14                   # older MP3s are deleted to keep the repo small
 
 SOURCES = {
@@ -92,19 +104,29 @@ def fetch_stories(seen: set) -> list:
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=LOOKBACK_HOURS)
     stories = []
     for name, url in SOURCES.items():
-        feed = feedparser.parse(url, agent="Mozilla/5.0 (indie-brief podcast bot)")
+        try:
+            request = urllib.request.Request(url, headers=BROWSER_HEADERS)
+            data = urllib.request.urlopen(request, timeout=30).read()
+        except Exception as error:
+            # Shows WHY a feed failed, e.g. "HTTP Error 403: Forbidden"
+            print(f"  ! {name}: couldn't fetch ({error}), skipping")
+            continue
+        feed = feedparser.parse(data)
         if not feed.entries:
-            print(f"  ! {name}: no stories (feed failed or empty), skipping")
+            print(f"  ! {name}: fetched, but no stories in it, skipping")
             continue
         count = 0
+        too_old = already_used = 0
         for entry in feed.entries:
             link = entry.get("link", "")
             published = entry.get("published_parsed") or entry.get("updated_parsed")
             if published:
                 when = dt.datetime(*published[:6], tzinfo=dt.timezone.utc)
                 if when < cutoff:
+                    too_old += 1
                     continue
             if not link or link in seen:
+                already_used += 1
                 continue
             stories.append({
                 "source": name,
@@ -115,7 +137,8 @@ def fetch_stories(seen: set) -> list:
             count += 1
             if count >= MAX_PER_SOURCE:
                 break
-        print(f"  {name}: {count} new stories")
+        print(f"  {name}: {count} new stories "
+              f"({too_old} too old, {already_used} used on earlier days)")
     return stories
 
 
