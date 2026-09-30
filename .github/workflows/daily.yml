@@ -3,6 +3,11 @@ name: Daily briefing
 on:
   workflow_dispatch:        # adds a "Run workflow" button so you can run it by hand
 
+on:
+  workflow_dispatch:        # adds a "Run workflow" button so you can run it by hand
+  schedule:
+    - cron: "17 4 * * *"    # every day at 04:17 UTC
+    
 permissions:
   contents: write           # lets the robot save the new episode into the repo
 
