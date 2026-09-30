@@ -8,11 +8,13 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Test episode</title>
-      <description>If this plays on your phone, delivery works.</description>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-test-001</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/test-episode.mp3" length="115818" type="audio/mpeg"/>
+      <title>Indie Brief, Wednesday 30 September</title>
+      <description>Good morning, this is Indie Brief for Wednesday 30 September.
+
+Modern Times Review has an interview with Gediminas Andriukaitis about Inconvenient Films, the Baltic region's only human rights documentary festival. He discusses twenty years of building the programme around impact, and the philosophy of bringing diverse audiences together. Andriukaitis emphasises that if you only invite people who a</description>
+      <pubDate>Wed, 30 Sep 2026 07:10:45 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-09-30</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-09-30.mp3" length="558576" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
