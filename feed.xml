@@ -9,12 +9,10 @@
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Indie Brief, Wednesday 30 September</title>
-      <description>Good morning, this is Indie Brief for Wednesday 30 September.
-
-Deadline reports that the Doc Talk Podcast is hitting the road this autumn with filmmakers behind several acclaimed documentaries. The series will feature makers of Union Town, Black Sunflowers, and Edward Said: Between Worlds, alongside leaders from the Camden International Film Festival. It's a timely move following a busy festival s</description>
-      <pubDate>Wed, 30 Sep 2026 07:16:05 +0000</pubDate>
+      <description>Good morning, this is Indie Brief for Wednesday 30 September. It's a quiet one: no new stories from our sources since yesterday. Back tomorrow.</description>
+      <pubDate>Wed, 30 Sep 2026 07:24:42 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-09-30</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-09-30.mp3" length="523584" type="audio/mpeg"/>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-09-30.mp3" length="65520" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
