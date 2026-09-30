@@ -170,8 +170,13 @@ def main():
     today = now.strftime("%Y-%m-%d")
     date_spoken = now.strftime("%A %-d %B")
 
-    seen_list = load_json(SEEN_FILE, [])
-    seen = set(seen_list)
+    # seen.json maps each story link to the day it was first used.
+    # Only stories from EARLIER days are skipped, so re-running on the
+    # same day rebuilds the episode from the same stories.
+    seen_map = load_json(SEEN_FILE, {})
+    if isinstance(seen_map, list):   # old format from the first version
+        seen_map = {}
+    seen = {link for link, day in seen_map.items() if day != today}
     episodes = load_json(EPISODES_FILE, [])
 
     print("Fetching news...")
@@ -207,9 +212,12 @@ def main():
         (ROOT / old["file"]).unlink(missing_ok=True)
     episodes = episodes[:KEEP_EPISODES]
 
-    # Remember covered stories (keep the most recent 1000 links)
-    seen_list = seen_list + [s["link"] for s in stories]
-    SEEN_FILE.write_text(json.dumps(seen_list[-1000:], indent=1))
+    # Remember covered stories; forget anything older than a week
+    for s in stories:
+        seen_map.setdefault(s["link"], today)
+    week_ago = (now - dt.timedelta(days=7)).strftime("%Y-%m-%d")
+    seen_map = {link: day for link, day in seen_map.items() if day >= week_ago}
+    SEEN_FILE.write_text(json.dumps(seen_map, indent=1))
     EPISODES_FILE.write_text(json.dumps(episodes, indent=1))
     FEED_FILE.write_text(build_feed(episodes))
     (ROOT / "latest-script.txt").write_text(script)
