@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Friday 16 October</title>
+      <description>Good morning, this is Indie Brief for Friday 16 October.
+
+Screen Daily reports that Tessa Ross has said even successful producers are struggling to raise funding. Speaking to an audience in Rome, she noted that having made a film that worked doesn't guarantee anyone will trust you to make another one. It's a sobering reminder of the current state of independent film financing.
+
+On the commissionin</description>
+      <pubDate>Fri, 16 Oct 2026 04:44:27 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-16</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-16.mp3" length="605232" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Thursday 15 October</title>
       <description>Good morning, this is Indie Brief for Thursday 15 October.
 
@@ -135,15 +146,6 @@ A significant structural shift in the industry: Screen Daily reports that the Pa
       <pubDate>Thu, 01 Oct 2026 04:31:11 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-01</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-01.mp3" length="727344" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Wednesday 30 September</title>
-      <description>Good morning, this is Indie Brief for Wednesday 30 September.
-
-Deadline reports that Channel 4 is teaming with the Stroke Association on a new documentary series called Trauma: My Broken Brain. The series follows three young stroke survivors through their recovery journey, exploring the psychological and physical aftermath of stroke. Every five minutes someone in the UK suffers a stroke, making th</description>
-      <pubDate>Wed, 30 Sep 2026 08:48:25 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-09-30</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-09-30.mp3" length="638640" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
