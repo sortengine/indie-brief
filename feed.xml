@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Saturday 17 October</title>
+      <description>Good morning, this is Indie Brief for Saturday 17 October.
+
+Screen Daily reports that European film and TV organisations have issued a joint statement criticising a proposed cut to the AgoraEU cultural fund. The funding would be reduced from eight point six billion euros to six billion euros, which organisations say would be devastating for the screen sector across Europe.
+
+On the funding front, S</description>
+      <pubDate>Sat, 17 Oct 2026 04:42:43 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-17</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-17.mp3" length="584640" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Friday 16 October</title>
       <description>Good morning, this is Indie Brief for Friday 16 October.
 
@@ -137,15 +148,6 @@ Realscreen reports that </description>
       <pubDate>Fri, 02 Oct 2026 04:30:34 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-02</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-02.mp3" length="579600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Thursday 1 October</title>
-      <description>Good morning, this is Indie Brief for Thursday 1 October.
-
-A significant structural shift in the industry: Screen Daily reports that the Paramount-Warner Bros Discovery merger has been approved, with the deal expected to close on October 6th. David Ellison has named Ynon Kreiz as co-CEO of the combined company. This consolidation will reshape the landscape for independent producers seeking distrib</description>
-      <pubDate>Thu, 01 Oct 2026 04:31:11 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-01</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-01.mp3" length="727344" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
