@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Wednesday 21 October</title>
+      <description>Good morning, this is Indie Brief for Wednesday 21 October.
+
+Deadline reports on documentary momentum heading into awards season. Four Oscar-contending features are gaining traction with critics and industry arbiters: American Doctor, To Hold a Mountain, Closure, and Once Upon a Time in Harlem. Filmmakers behind these distinguished productions recently assembled at the Hot Springs Documentary Film</description>
+      <pubDate>Wed, 21 Oct 2026 04:43:54 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-21</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-21.mp3" length="648864" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Tuesday 20 October</title>
       <description>Good morning, this is Indie Brief for Tuesday 20 October.
 
@@ -137,15 +146,6 @@ In major industry res</description>
       <pubDate>Tue, 06 Oct 2026 04:31:18 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-06</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-06.mp3" length="672912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Monday 5 October</title>
-      <description>Good morning, this is Indie Brief for Monday 5 October.
-
-Deadline reports that Regal Entertainment producer Keith Monteverde is teaming with Singapore's Mocha Chai Laboratories on a coming-of-age drama called One For The Road. The film is directed by award-winning Filipino filmmaker Kip Oebanda and stars Elijah Canlas, Gian Bernardino, Emilio Daez and JM Ibarra as four high school best friends. It</description>
-      <pubDate>Mon, 05 Oct 2026 04:33:16 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-05</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-05.mp3" length="591408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
