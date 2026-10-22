@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Thursday 22 October</title>
+      <description>Good morning, this is Indie Brief for Thursday 22 October.
+
+Realscreen reports that Prime Video has set a November 30 premiere date for its three-part documentary series on Sam Bankman-Fried, the former head of FTX. The series explores one of the most significant financial scandals in recent years.
+
+Also in documentary news, Realscreen reports that Neon has joined The Guardian and mk2 Films to exp</description>
+      <pubDate>Thu, 22 Oct 2026 04:43:39 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-22</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-22.mp3" length="636624" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Wednesday 21 October</title>
       <description>Good morning, this is Indie Brief for Wednesday 21 October.
 
@@ -135,17 +146,6 @@ The major industry story this week: Realscreen reports that the Paramount and Wa
       <pubDate>Wed, 07 Oct 2026 04:32:12 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-07</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-07.mp3" length="704016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Tuesday 6 October</title>
-      <description>Good morning, this is Indie Brief for Tuesday 6 October.
-
-Realscreen reports that Channel 4 has appointed Louisa Compton, director of news, digital and audience trust, to the channel's board as an executive member in a newly created director of programmes role. The appointment reflects the pubcaster's evolving leadership structure as it navigates the current media landscape.
-
-In major industry res</description>
-      <pubDate>Tue, 06 Oct 2026 04:31:18 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-06</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-06.mp3" length="672912" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
