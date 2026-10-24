@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Saturday 24 October</title>
+      <description>Good morning, this is Indie Brief for Saturday 24 October.
+
+Realscreen reports that Neon has joined The Guardian and mk2 Films to expand the reach of the documentary NAZA, directed by Yuval Abraham and Rachel Szor. The move comes as the film continues to build momentum in the festival circuit.
+
+Also from Realscreen, Canal Plus has acquired French rights for an extended version of The Death and Lov</description>
+      <pubDate>Sat, 24 Oct 2026 04:42:22 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-24</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-24.mp3" length="598752" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Friday 23 October</title>
       <description>Good morning, this is Indie Brief for Friday 23 October.
 
@@ -137,17 +148,6 @@ The International Documentary Association has announced the honourees for the 20
       <pubDate>Fri, 09 Oct 2026 04:32:22 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-09</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-09.mp3" length="481248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Thursday 8 October</title>
-      <description>Good morning, this is Indie Brief for Thursday 8 October.
-
-Screen Daily reports that the BFI is celebrating outgoing fund head Mia Bays and introducing Isabel Davis at a pre-London Film Festival handover event. BFI CEO Ben Roberts urged supporters to back the National Lottery, saying the organisation needs people to buy tickets.
-
-In funding news, Screen Daily reports that France is doubling Oscar </description>
-      <pubDate>Thu, 08 Oct 2026 04:31:38 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-08</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-08.mp3" length="661968" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
