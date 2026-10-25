@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Sunday 25 October</title>
+      <description>Good morning, this is Indie Brief for Sunday 25 October.
+
+We start with significant news for independent filmmakers at major festivals. Screen Daily reports that Clio Barnard's Birmingham-set drama I See Buildings Fall Like Lightning has taken the top prize at Rome Film Festival in the Progressive Cinema competition. A major achievement for British independent cinema on the European festival circu</description>
+      <pubDate>Sun, 25 Oct 2026 04:42:54 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-25</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-25.mp3" length="698544" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Saturday 24 October</title>
       <description>Good morning, this is Indie Brief for Saturday 24 October.
 
@@ -137,17 +146,6 @@ Realscreen repo</description>
       <pubDate>Sat, 10 Oct 2026 04:30:40 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-10</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-10.mp3" length="794736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Friday 9 October</title>
-      <description>Good morning, this is Indie Brief for Friday 9 October.
-
-The Grierson Trust has announced Anna Godas, CEO and co-founder of Dogwoof, as the recipient of the Grierson Trustees Award for 2026. The honour recognises Godas's significant contributions to documentary.
-
-The International Documentary Association has announced the honourees for the 2026 IDA Documentary Awards, celebrating excellence across</description>
-      <pubDate>Fri, 09 Oct 2026 04:32:22 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-09</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-09.mp3" length="481248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
