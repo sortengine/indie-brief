@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Tuesday 27 October</title>
+      <description>Good morning, this is Indie Brief for Tuesday 27 October.
+
+Realscreen reports that Prime Video UK and Ireland has commissioned a true crime feature documentary from Sphere Abacus and Welsh production company Yeti Television. The ninety-minute film, Surviving the London Nail Bombings, is now in development.
+
+Also from Realscreen, documentary filmmaker Alex Gibney is making his four-hour film Musk a</description>
+      <pubDate>Tue, 27 Oct 2026 04:44:06 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-27</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-27.mp3" length="651312" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Monday 26 October</title>
       <description>Good morning, this is Indie Brief for Monday 26 October.
 
@@ -137,15 +148,6 @@ Starting with documentary festivals and markets. Realscreen reports that the Int
       <pubDate>Wed, 14 Oct 2026 04:45:51 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-14</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-14.mp3" length="675504" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Sunday 11 October</title>
-      <description>Good morning, this is Indie Brief for Sunday 11 October.
-
-Deadline reports that the Producers Guild of Korea and the Sakha Filmmakers Association have signed a memorandum of understanding to create a direct route for international co-productions and professional exchange. The Sakha Republic in Russia's Far East has developed one of the country's most dynamic screen production sectors, and this par</description>
-      <pubDate>Sun, 11 Oct 2026 04:31:13 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-11</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-11.mp3" length="607104" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
