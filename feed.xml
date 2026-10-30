@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Friday 30 October</title>
+      <description>Good morning, this is Indie Brief for Friday 30 October.
+
+Realscreen reports that Earthrise and Bupa have launched the Planet Health Film Fund, a one hundred thousand pound initiative supporting independent documentary filmmakers. Five filmmakers will each receive twenty thousand pounds to make short documentaries on health-related topics. This is a significant funding opportunity for producers in</description>
+      <pubDate>Fri, 30 Oct 2026 04:56:51 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-30</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-30.mp3" length="736272" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Thursday 29 October</title>
       <description>Good morning, this is Indie Brief for Thursday 29 October.
 
@@ -137,17 +146,6 @@ On the funding front, S</description>
       <pubDate>Sat, 17 Oct 2026 04:42:43 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-17</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-17.mp3" length="584640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Friday 16 October</title>
-      <description>Good morning, this is Indie Brief for Friday 16 October.
-
-Screen Daily reports that Tessa Ross has said even successful producers are struggling to raise funding. Speaking to an audience in Rome, she noted that having made a film that worked doesn't guarantee anyone will trust you to make another one. It's a sobering reminder of the current state of independent film financing.
-
-On the commissionin</description>
-      <pubDate>Fri, 16 Oct 2026 04:44:27 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-16</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-16.mp3" length="605232" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
