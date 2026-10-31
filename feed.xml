@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Saturday 31 October</title>
+      <description>Good morning, this is Indie Brief for Saturday 31 October.
+
+Realscreen reports that Channel 4 and Disney Plus have struck a major content partnership designed to extend digital distribution for both parties. The collaboration represents the latest in a series of broadcaster and streamer deals reshaping how independent producers can access multiple platforms for their work.
+
+In documentary news, th</description>
+      <pubDate>Sat, 31 Oct 2026 10:23:51 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-10-31</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-31.mp3" length="692208" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Friday 30 October</title>
       <description>Good morning, this is Indie Brief for Friday 30 October.
 
@@ -135,17 +146,6 @@ Modern Times Review reports that the thirteenth Bozcaada International Festival 
       <pubDate>Sun, 18 Oct 2026 04:42:41 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-18</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-18.mp3" length="560592" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Saturday 17 October</title>
-      <description>Good morning, this is Indie Brief for Saturday 17 October.
-
-Screen Daily reports that European film and TV organisations have issued a joint statement criticising a proposed cut to the AgoraEU cultural fund. The funding would be reduced from eight point six billion euros to six billion euros, which organisations say would be devastating for the screen sector across Europe.
-
-On the funding front, S</description>
-      <pubDate>Sat, 17 Oct 2026 04:42:43 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-17</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-17.mp3" length="584640" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
