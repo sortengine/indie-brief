@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Sunday 1 November</title>
+      <description>Good morning, this is Indie Brief for Sunday 1 November.
+
+Modern Times Review reports that James Longley's film Mohabat has taken the main award at the 30th Ji.hlava International Documentary Film Festival. The festival also announced that Trinh T. Minh-ha has received the Contribution to World Cinema Award, recognizing her significant impact on documentary and experimental cinema.
+
+In industry ne</description>
+      <pubDate>Sun, 01 Nov 2026 11:16:45 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-01</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-01.mp3" length="626832" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Saturday 31 October</title>
       <description>Good morning, this is Indie Brief for Saturday 31 October.
 
@@ -137,15 +148,6 @@ Deadline reports that Yeon Sang-ho's psychological thriller Paradise Lost has so
       <pubDate>Mon, 19 Oct 2026 04:45:36 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-19</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-19.mp3" length="567504" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Sunday 18 October</title>
-      <description>Good morning, this is Indie Brief for Sunday 18 October.
-
-Modern Times Review reports that the thirteenth Bozcaada International Festival of Ecological Documentary wrapped up this week after running from October seventh to eleventh. The festival presented four awards on Saturday, and in her closing speech, Festival Director Petra Holzer called for continued accountability from politicians and corp</description>
-      <pubDate>Sun, 18 Oct 2026 04:42:41 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-18</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-18.mp3" length="560592" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
