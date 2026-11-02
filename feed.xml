@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Monday 2 November</title>
+      <description>Good morning, this is Indie Brief for Monday two November.
+
+Deadline reports that Emmy-winning producer-directors Gesbeen Mohammad and Robin Barnwell have launched a new independent production company called Sisu Pictures. The indie is dedicated to telling major stories of the year, starting with two documentaries airing back-to-back on the BBC and Channel Four. Iran: The People's Story and anothe</description>
+      <pubDate>Mon, 02 Nov 2026 12:24:48 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-02</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-02.mp3" length="534384" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Sunday 1 November</title>
       <description>Good morning, this is Indie Brief for Sunday 1 November.
 
@@ -139,15 +148,6 @@ Screen Daily reports that Mia Bays, director of the BFI Filmmaking Fund, is comi
       <pubDate>Tue, 20 Oct 2026 04:42:48 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-20</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-20.mp3" length="656352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Monday 19 October</title>
-      <description>Good morning, this is Indie Brief for Monday 19 October.
-
-Deadline reports that Yeon Sang-ho's psychological thriller Paradise Lost has sold to 118 territories worldwide. The Train to Busan director's film has secured deals including Twin for Japan, The Jokers Films for France, and Well Go USA for North America. The film is premiering in the Spotlight on Korea section at the Hawaii International F</description>
-      <pubDate>Mon, 19 Oct 2026 04:45:36 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-19</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-19.mp3" length="567504" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
