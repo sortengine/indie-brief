@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Tuesday 3 November</title>
+      <description>Good morning, this is Indie Brief for Tuesday 3 November.
+
+Deadline reports that the British Independent Film Awards have unveiled their nominations, with Simon Stone's Elsinore leading the charge with twelve nominations. Andrew Scott is in the running for Best Lead Performance, while Stone himself is nominated for Best Director. The film also picked up nominations for Best British Independent Fil</description>
+      <pubDate>Tue, 03 Nov 2026 11:56:15 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-03</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-03.mp3" length="707328" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Monday 2 November</title>
       <description>Good morning, this is Indie Brief for Monday two November.
 
@@ -139,15 +148,6 @@ Deadline reports on documentary momentum heading into awards season. Four Oscar-
       <pubDate>Wed, 21 Oct 2026 04:43:54 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-21</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-21.mp3" length="648864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Tuesday 20 October</title>
-      <description>Good morning, this is Indie Brief for Tuesday 20 October.
-
-Screen Daily reports that Mia Bays, director of the BFI Filmmaking Fund, is coming to the end of her five-year tenure. Bays has corrected the record about her role, noting that people often thought she ran the London Film Festival, the archive, and BFI Southbank as well. She's feeling energised as she prepares to move on from the position.</description>
-      <pubDate>Tue, 20 Oct 2026 04:42:48 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-20</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-20.mp3" length="656352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
