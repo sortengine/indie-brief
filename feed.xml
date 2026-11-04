@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Wednesday 4 November</title>
+      <description>Good morning, this is Indie Brief for Wednesday 4 November.
+
+Realscreen reports that Utopai Studios, an AI-native film and TV production company based in California, has appointed Hans Ku as chief product officer. Ku previously led AI strategy at Walt Disney Company, signalling a growing intersection between artificial intelligence and content production that independent producers may want to moni</description>
+      <pubDate>Wed, 04 Nov 2026 12:08:53 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-04</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-04.mp3" length="721296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Tuesday 3 November</title>
       <description>Good morning, this is Indie Brief for Tuesday 3 November.
 
@@ -139,15 +148,6 @@ Also in documentary news, Realscreen reports that Neon has joined The Guardian a
       <pubDate>Thu, 22 Oct 2026 04:43:39 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-22</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-22.mp3" length="636624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Wednesday 21 October</title>
-      <description>Good morning, this is Indie Brief for Wednesday 21 October.
-
-Deadline reports on documentary momentum heading into awards season. Four Oscar-contending features are gaining traction with critics and industry arbiters: American Doctor, To Hold a Mountain, Closure, and Once Upon a Time in Harlem. Filmmakers behind these distinguished productions recently assembled at the Hot Springs Documentary Film</description>
-      <pubDate>Wed, 21 Oct 2026 04:43:54 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-21</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-21.mp3" length="648864" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
