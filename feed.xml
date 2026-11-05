@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Thursday 5 November</title>
+      <description>Good morning, this is Indie Brief for Thursday 5 November.
+
+Realscreen reports that Jenny Groom, a former executive at NBCUniversal and BBC Studios, has been appointed head of MGM Alternative at Amazon MGM Studios, effective November 30th. This is a significant leadership move in the unscripted production space.
+
+In major regulatory news, the UK government has issued a Public Interest Intervention</description>
+      <pubDate>Thu, 05 Nov 2026 12:21:36 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-05</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-05.mp3" length="681552" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Wednesday 4 November</title>
       <description>Good morning, this is Indie Brief for Wednesday 4 November.
 
@@ -137,17 +148,6 @@ Also in </description>
       <pubDate>Fri, 23 Oct 2026 04:43:29 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-23</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-23.mp3" length="630000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Thursday 22 October</title>
-      <description>Good morning, this is Indie Brief for Thursday 22 October.
-
-Realscreen reports that Prime Video has set a November 30 premiere date for its three-part documentary series on Sam Bankman-Fried, the former head of FTX. The series explores one of the most significant financial scandals in recent years.
-
-Also in documentary news, Realscreen reports that Neon has joined The Guardian and mk2 Films to exp</description>
-      <pubDate>Thu, 22 Oct 2026 04:43:39 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-22</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-22.mp3" length="636624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
