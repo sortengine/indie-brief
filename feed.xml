@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Friday 6 November</title>
+      <description>Good morning, this is Indie Brief for Friday 6 November.
+
+We start in Italy, where significant policy changes are afoot. Screen Daily reports that Italy has passed a sweeping film and TV reform that includes measures to attract international shoots. The reform paves the way for a new cinema agency and a restructuring of public incentives, making it potentially attractive for co-productions and int</description>
+      <pubDate>Fri, 06 Nov 2026 12:06:46 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-06</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-06.mp3" length="770400" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Thursday 5 November</title>
       <description>Good morning, this is Indie Brief for Thursday 5 November.
 
@@ -137,17 +146,6 @@ Also from Realscreen, Canal Plus has acquired French rights for an extended vers
       <pubDate>Sat, 24 Oct 2026 04:42:22 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-24</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-24.mp3" length="598752" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Friday 23 October</title>
-      <description>Good morning, this is Indie Brief for Friday 23 October.
-
-Realscreen reports that the Grierson-Percy Documentary Grant recipients have been announced. The award winners are Lilyana Torres and Carlos Morales for I Want to Kill My Grandfather, and Jacqui and David Morris for Shooting with Music. These grants provide crucial funding for documentary creators at critical stages of production.
-
-Also in </description>
-      <pubDate>Fri, 23 Oct 2026 04:43:29 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-23</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-23.mp3" length="630000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
