@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Monday 9 November</title>
+      <description>Good morning, this is Indie Brief for Monday 9 November.
+
+Deadline reports that You Can See Everything has swept the top categories at the Critics Choice Documentary Awards. Nathan Fielding and Lance Oppenheim's documentary about Elizabeth Holmes in her final days before prison took every award in which it was nominated, including the top prize.
+
+Also on the festival circuit, Modern Times Review c</description>
+      <pubDate>Mon, 09 Nov 2026 12:52:46 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-09</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-09.mp3" length="603936" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Sunday 8 November</title>
       <description>Good morning, this is Indie Brief for Sunday 8 November.
 
@@ -133,17 +144,6 @@ Also from Realscreen, documentary filmmaker Alex Gibney is making his four-hour 
       <pubDate>Tue, 27 Oct 2026 04:44:06 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-27</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-27.mp3" length="651312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Monday 26 October</title>
-      <description>Good morning, this is Indie Brief for Monday 26 October.
-
-Modern Times Review reports that the CME Social Impact Center has backed Michał Marczak's documentary Closure ahead of its 9 November release. The Sundance-premiered film will be paired with a regional campaign focused on loneliness among young people, marking the first acquisition by CME's new impact arm.
-
-In market news, Rome's audiovisua</description>
-      <pubDate>Mon, 26 Oct 2026 04:46:22 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-26</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-26.mp3" length="523872" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
