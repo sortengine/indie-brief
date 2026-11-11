@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Wednesday 11 November</title>
+      <description>Good morning, this is Indie Brief for Wednesday 11 November.
+
+Lightdox has acquired world sales rights to The Big Boom, ahead of its world premiere at the International Documentary Festival Amsterdam. The feature documentary by Swiss filmmaker Gabriel Tejedor explores the contradictions of a Bulgarian town caught up in Europe's shifting geopolitical order, where arms production for Ukraine's front</description>
+      <pubDate>Wed, 11 Nov 2026 11:52:53 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-11</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-11.mp3" length="696384" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Tuesday 10 November</title>
       <description>Good morning, this is Indie Brief for Tuesday 10 November.
 
@@ -135,15 +144,6 @@ Also from Realscreen, Channel 4 has appointed Alisa Pomeroy as its new head of u
       <pubDate>Thu, 29 Oct 2026 04:56:36 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-29</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-29.mp3" length="596304" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Wednesday 28 October</title>
-      <description>Good morning, this is Indie Brief for Wednesday 28 October.
-
-The International Documentary Association has announced the shortlists for the 42nd IDA Documentary Awards. Deadline reports that features including You Can See Everything, To Hold A Mountain, and Nuisance Bear made the cut, though some anticipated documentaries were notably absent. The IDA Awards are a significant indicator of Oscar pro</description>
-      <pubDate>Wed, 28 Oct 2026 04:55:37 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-28</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-28.mp3" length="753840" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
