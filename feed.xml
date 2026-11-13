@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Friday 13 November</title>
+      <description>Good morning, this is Indie Brief for Friday 13 November.
+
+Realscreen reports that Po Si Teng's American Doctor and Nathan Fielder and Lance Oppenheim's You Can See Everything are leading the nominations for the 20th Cinema Eye Honors, with seven nominations each including top documentary. The Cinema Eye Honors celebrate excellence in non-fiction filmmaking.
+
+In acquisition news, Realscreen report</description>
+      <pubDate>Fri, 13 Nov 2026 12:12:58 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-13</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-13.mp3" length="580032" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Thursday 12 November</title>
       <description>Good morning, this is Indie Brief for Thursday 12 November.
 
@@ -133,15 +144,6 @@ In documentary news, th</description>
       <pubDate>Sat, 31 Oct 2026 10:23:51 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-10-31</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-31.mp3" length="692208" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Friday 30 October</title>
-      <description>Good morning, this is Indie Brief for Friday 30 October.
-
-Realscreen reports that Earthrise and Bupa have launched the Planet Health Film Fund, a one hundred thousand pound initiative supporting independent documentary filmmakers. Five filmmakers will each receive twenty thousand pounds to make short documentaries on health-related topics. This is a significant funding opportunity for producers in</description>
-      <pubDate>Fri, 30 Oct 2026 04:56:51 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-30</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-30.mp3" length="736272" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
