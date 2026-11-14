@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Saturday 14 November</title>
+      <description>Good morning, this is Indie Brief for Saturday 14 November.
+
+The European Film Academy has announced nominations for the thirty-ninth European Film Awards, taking place in Greece in January twenty twenty-seven. Paweł Pawlikowski's Fatherland leads with eleven nominations, followed by La Bola Negra with ten nominations, and Cristian Mungiu's work also featuring prominently across the sixteen key ca</description>
+      <pubDate>Sat, 14 Nov 2026 11:28:38 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-14</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-14.mp3" length="708624" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Friday 13 November</title>
       <description>Good morning, this is Indie Brief for Friday 13 November.
 
@@ -133,17 +142,6 @@ In industry ne</description>
       <pubDate>Sun, 01 Nov 2026 11:16:45 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-01</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-01.mp3" length="626832" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Saturday 31 October</title>
-      <description>Good morning, this is Indie Brief for Saturday 31 October.
-
-Realscreen reports that Channel 4 and Disney Plus have struck a major content partnership designed to extend digital distribution for both parties. The collaboration represents the latest in a series of broadcaster and streamer deals reshaping how independent producers can access multiple platforms for their work.
-
-In documentary news, th</description>
-      <pubDate>Sat, 31 Oct 2026 10:23:51 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-10-31</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-10-31.mp3" length="692208" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
