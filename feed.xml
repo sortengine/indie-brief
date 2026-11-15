@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Sunday 15 November</title>
+      <description>Good morning, this is Indie Brief for Sunday 15 November.
+
+Modern Times Review covers Concrete Turned to Sand, a new documentary by Jessica Johnson and Ryan Ermacora exploring oyster farming on Canada's Cortes Island. The film offers a portrait of the fragile relationship between people, land and ocean, and will be of interest to documentary producers working in ecology and environmental storytell</description>
+      <pubDate>Sun, 15 Nov 2026 11:57:16 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-15</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-15.mp3" length="627552" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Saturday 14 November</title>
       <description>Good morning, this is Indie Brief for Saturday 14 November.
 
@@ -131,17 +140,6 @@ Deadline reports that Emmy-winning producer-directors Gesbeen Mohammad and Robin
       <pubDate>Mon, 02 Nov 2026 12:24:48 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-02</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-02.mp3" length="534384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Sunday 1 November</title>
-      <description>Good morning, this is Indie Brief for Sunday 1 November.
-
-Modern Times Review reports that James Longley's film Mohabat has taken the main award at the 30th Ji.hlava International Documentary Film Festival. The festival also announced that Trinh T. Minh-ha has received the Contribution to World Cinema Award, recognizing her significant impact on documentary and experimental cinema.
-
-In industry ne</description>
-      <pubDate>Sun, 01 Nov 2026 11:16:45 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-01</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-01.mp3" length="626832" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
