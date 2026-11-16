@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Monday 16 November</title>
+      <description>Good morning, this is Indie Brief for Monday 16 November.
+
+Poland's documentary sector is celebrating a major milestone. Deadline reports that Millennium Docs Against Gravity has officially become the world's second biggest documentary film festival by audience numbers. The festival, which took place in May this year, recorded one hundred and eighty thousand admissions, putting it just behind IDFA</description>
+      <pubDate>Mon, 16 Nov 2026 12:45:55 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-16</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-16.mp3" length="672912" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Sunday 15 November</title>
       <description>Good morning, this is Indie Brief for Sunday 15 November.
 
@@ -131,15 +140,6 @@ Deadline reports that the British Independent Film Awards have unveiled their no
       <pubDate>Tue, 03 Nov 2026 11:56:15 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-03</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-03.mp3" length="707328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Monday 2 November</title>
-      <description>Good morning, this is Indie Brief for Monday two November.
-
-Deadline reports that Emmy-winning producer-directors Gesbeen Mohammad and Robin Barnwell have launched a new independent production company called Sisu Pictures. The indie is dedicated to telling major stories of the year, starting with two documentaries airing back-to-back on the BBC and Channel Four. Iran: The People's Story and anothe</description>
-      <pubDate>Mon, 02 Nov 2026 12:24:48 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-02</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-02.mp3" length="534384" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
