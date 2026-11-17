@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Tuesday 17 November</title>
+      <description>Good morning, this is Indie Brief for Tuesday 17 November.
+
+Deadline reports that a French vertical video drama app called Shortstory has opened a one point one million dollar funding round to accelerate across the French-speaking world. The platform has already produced fifty four original series and accumulated more than ninety million views, showing strong potential in the growing microdrama sp</description>
+      <pubDate>Tue, 17 Nov 2026 13:27:13 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-17</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-17.mp3" length="687888" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Monday 16 November</title>
       <description>Good morning, this is Indie Brief for Monday 16 November.
 
@@ -131,15 +140,6 @@ Realscreen reports that Utopai Studios, an AI-native film and TV production comp
       <pubDate>Wed, 04 Nov 2026 12:08:53 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-04</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-04.mp3" length="721296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Tuesday 3 November</title>
-      <description>Good morning, this is Indie Brief for Tuesday 3 November.
-
-Deadline reports that the British Independent Film Awards have unveiled their nominations, with Simon Stone's Elsinore leading the charge with twelve nominations. Andrew Scott is in the running for Best Lead Performance, while Stone himself is nominated for Best Director. The film also picked up nominations for Best British Independent Fil</description>
-      <pubDate>Tue, 03 Nov 2026 11:56:15 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-03</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-03.mp3" length="707328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
