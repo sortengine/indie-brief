@@ -8,6 +8,15 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Monday 23 November</title>
+      <description>Good morning, this is Indie Brief for Monday 23 November.
+
+Deadline reports that The Dark Side Of Surfing, a new documentary investigation into allegations of sexual abuse and harassment in the international and US surfing industries, is in development. The project is led by BAFTA-winning documentarian Sarah Macdonald, CEO of Make Waves Films, and includes leading women's rights lawyer Ann Olivari</description>
+      <pubDate>Mon, 23 Nov 2026 14:39:46 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-23</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-23.mp3" length="715392" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Sunday 22 November</title>
       <description>Good morning, this is Indie Brief for Sunday 22 November.
 
@@ -129,17 +138,6 @@ In commissioning news, Realscreen also</description>
       <pubDate>Tue, 10 Nov 2026 12:39:37 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-10</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-10.mp3" length="586512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Monday 9 November</title>
-      <description>Good morning, this is Indie Brief for Monday 9 November.
-
-Deadline reports that You Can See Everything has swept the top categories at the Critics Choice Documentary Awards. Nathan Fielding and Lance Oppenheim's documentary about Elizabeth Holmes in her final days before prison took every award in which it was nominated, including the top prize.
-
-Also on the festival circuit, Modern Times Review c</description>
-      <pubDate>Mon, 09 Nov 2026 12:52:46 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-09</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-09.mp3" length="603936" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
