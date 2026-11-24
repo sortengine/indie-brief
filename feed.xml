@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Tuesday 24 November</title>
+      <description>Good morning, this is Indie Brief for Tuesday 24 November.
+
+Realscreen reports that Silverback Films, the Bristol-based Banijay UK-owned production company behind Ocean with David Attenborough, has promoted three senior figures, including elevating Jane Hamlin to CEO. Hamlin was previously chief operating officer and director of production.
+
+Also in leadership moves, Realscreen reports that Passio</description>
+      <pubDate>Tue, 24 Nov 2026 14:52:46 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-24</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-24.mp3" length="643968" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Monday 23 November</title>
       <description>Good morning, this is Indie Brief for Monday 23 November.
 
@@ -127,17 +138,6 @@ Lightdox has acquired world sales rights to The Big Boom, ahead of its world pre
       <pubDate>Wed, 11 Nov 2026 11:52:53 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-11</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-11.mp3" length="696384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Tuesday 10 November</title>
-      <description>Good morning, this is Indie Brief for Tuesday 10 November.
-
-Realscreen reports that National Geographic is partnering with Walt Disney Animation Studios on a new natural history series called The Real Frozen, set to premiere on National Geographic. The collaboration brings together the broadcaster's documentary expertise with Disney's animation capabilities.
-
-In commissioning news, Realscreen also</description>
-      <pubDate>Tue, 10 Nov 2026 12:39:37 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-10</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-10.mp3" length="586512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
