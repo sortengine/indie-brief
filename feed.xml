@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Wednesday 25 November</title>
+      <description>Good morning, this is Indie Brief for Wednesday 25 November.
+
+Deadline reports that the UK actors union Equity is preparing to enter negotiations with Netflix, Disney and Apple early next year. This comes as Equity nears completion of its long-awaited deal with producer trade body Pact. The streamer talks are expected to begin at the start of 2025.
+
+The British film and television industry is brac</description>
+      <pubDate>Wed, 25 Nov 2026 14:22:44 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-25</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-25.mp3" length="683136" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Tuesday 24 November</title>
       <description>Good morning, this is Indie Brief for Tuesday 24 November.
 
@@ -129,15 +140,6 @@ Barbara Broccoli, the legendary James Bond producer, has been appointed as the f
       <pubDate>Thu, 12 Nov 2026 12:43:30 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-12</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-12.mp3" length="616608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Wednesday 11 November</title>
-      <description>Good morning, this is Indie Brief for Wednesday 11 November.
-
-Lightdox has acquired world sales rights to The Big Boom, ahead of its world premiere at the International Documentary Festival Amsterdam. The feature documentary by Swiss filmmaker Gabriel Tejedor explores the contradictions of a Bulgarian town caught up in Europe's shifting geopolitical order, where arms production for Ukraine's front</description>
-      <pubDate>Wed, 11 Nov 2026 11:52:53 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-11</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-11.mp3" length="696384" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
