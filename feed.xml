@@ -8,6 +8,17 @@
     <itunes:author>Sort Engine</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Indie Brief, Friday 27 November</title>
+      <description>Good morning, this is Indie Brief for Friday 27 November.
+
+Realscreen reports that the microdrama business is projected to reach global revenues of twenty billion dollars by twenty twenty-six. While the sector continues to grow in both the US and international markets, producers should be aware that marketing costs and monetization challenges are impacting this nascent medium.
+
+Also from Realscree</description>
+      <pubDate>Fri, 27 Nov 2026 13:52:40 +0000</pubDate>
+      <guid isPermaLink="false">indie-brief-2026-11-27</guid>
+      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-27.mp3" length="657216" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Indie Brief, Thursday 26 November</title>
       <description>Good morning, this is Indie Brief for Thursday 26 November.
 
@@ -129,17 +140,6 @@ The European Film Academy has announced nominations for the thirty-ninth Europea
       <pubDate>Sat, 14 Nov 2026 11:28:38 +0000</pubDate>
       <guid isPermaLink="false">indie-brief-2026-11-14</guid>
       <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-14.mp3" length="708624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Indie Brief, Friday 13 November</title>
-      <description>Good morning, this is Indie Brief for Friday 13 November.
-
-Realscreen reports that Po Si Teng's American Doctor and Nathan Fielder and Lance Oppenheim's You Can See Everything are leading the nominations for the 20th Cinema Eye Honors, with seven nominations each including top documentary. The Cinema Eye Honors celebrate excellence in non-fiction filmmaking.
-
-In acquisition news, Realscreen report</description>
-      <pubDate>Fri, 13 Nov 2026 12:12:58 +0000</pubDate>
-      <guid isPermaLink="false">indie-brief-2026-11-13</guid>
-      <enclosure url="https://sortengine.github.io/indie-brief/episodes/2026-11-13.mp3" length="580032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
